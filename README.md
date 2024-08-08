@@ -63,6 +63,8 @@ Field of Interest:
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="45" height="45"/>
 </a>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+</a>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="45" height="45"/>
 </p>
 <br>
 <h2> <img src="https://iconape.com/wp-content/png_logo_vector/leetcode-logo-white-no-text.png" width="30" height="30"/>  &nbsp; LeetCode Progress </h2>
