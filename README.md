@@ -36,7 +36,7 @@ Company: Aga Khan University and Hospital
 Certifications:
   
    - Microsoft Fabric Analytics Engineer Associate (DP-600)
-   - Microsoft Power BI Data Analyst Associate
+   - Microsoft Power BI Data Analyst Associate (PL-300)
 
 Field of Interest:
   
