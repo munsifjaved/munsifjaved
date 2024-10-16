@@ -59,6 +59,9 @@ Field of Interest:
     <a href="https://learn.microsoft.com/api/credentials/share/en-us/MunsifJaweed-3344/C7F615FB2245DDC0?sharingId" target="_blank">
       <img src="https://github.com/munsifjaved/Certifications_image/blob/main/Azure%20AI%20Fundamentals.png?raw=true" alt="Azure AI Fundamentals" width="150" height="150">
     </a>
+    <a href="https://learn.microsoft.com/api/credentials/share/en-us/MunsifJaweed-3344/C5F666BB28476EEA?sharingId=EFFF3AAC6A464E1B" target="_blank">
+      <img src="https://github.com/munsifjaved/Certifications_image/blob/main/Azure%20Data%20Fundamentals.png?raw=true" alt="Azure Data Fundamentals" width="150" height="150">
+    </a>
   </div>
 </div>
 <br>
