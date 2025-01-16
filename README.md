@@ -30,8 +30,6 @@ Education:
 
    - Post-Graduate Diploma in Data Science and AI (Ongoing)
    - Bachelor's in Engineering
-  
-Company: Aga Khan University and Hospital
 
 Field of Interest:
   
