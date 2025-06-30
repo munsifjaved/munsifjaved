@@ -25,7 +25,7 @@
 
 ```yaml
 Name: Munsif Jaweed
-Current Job: Analyst, Business Intelligence 
+Current Job: Data Engineer 
 Education:
 
    - Post-Graduate Diploma in Data Science and AI (Ongoing)
