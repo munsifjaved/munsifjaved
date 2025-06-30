@@ -32,7 +32,7 @@ Field of Interest:
   
    - Data Analytics
    - Data Science
-   - Machine Learning
+   - Generative AI
    - Data Engineering
 
 
