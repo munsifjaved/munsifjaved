@@ -7,9 +7,6 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:munsifjaved00@gmail.com" style="text-decoration: none;">
-    <img height="50" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/munsifjaved1/" style="text-decoration: none;">
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>&nbsp;&nbsp;&nbsp;
